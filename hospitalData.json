@@ -1,0 +1,24 @@
+[
+  {
+    "name": "meditrina",
+    "patientCount": 200,
+    "location": "kollam"
+  },
+  {
+    "name": "al-Shifa",
+    "patientCount": 150,
+    "location": "TVM"
+  },
+ 
+  {
+    "name": "al-Shifa",
+    "patientCount": 150,
+    "location": "TVM"
+  },
+ 
+  {
+    "name": "preeti",
+    "patientCount": 70,
+    "location": "goa"
+  }
+]
